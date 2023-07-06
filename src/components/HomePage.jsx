@@ -19,6 +19,7 @@ const BookList = styled.div`
 const Title = styled.h1`
     font-size: 24px;
     margin-bottom: 20px;
+    text-align: center;
 `;
 
 const SearchInput = styled.input`
